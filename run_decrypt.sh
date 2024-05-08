@@ -1,2 +1,2 @@
-echo "STARTING Decrypt Password cTOS : "
+echo "[+] STARTING Decrypt Password cTOS : "
 ./decrypt.exe
